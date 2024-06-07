@@ -232,27 +232,27 @@
     "risk_factor": "CRITICAL"
   },
   {
-    "test_number": 2.1,
+    "test_number": "2.1",
     "risk_factor": "MEDIUM"
   },
   {
-    "test_number": 2.2,
+    "test_number": "2.2",
     "risk_factor": "CRITICAL"
   },
   {
-    "test_number": 2.3,
+    "test_number": "2.3",
     "risk_factor": "CRITICAL"
   },
   {
-    "test_number": 2.4,
+    "test_number": "2.4",
     "risk_factor": "CRITICAL"
   },
   {
-    "test_number": 2.5,
+    "test_number": "2.5",
     "risk_factor": "CRITICAL"
   },
   {
-    "test_number": 2.6,
+    "test_number": "2.6",
     "risk_factor": "HIGH"
   },
   {
